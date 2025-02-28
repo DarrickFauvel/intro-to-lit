@@ -1,1 +1,1 @@
-# stencil-project
+# intro-to-lit
